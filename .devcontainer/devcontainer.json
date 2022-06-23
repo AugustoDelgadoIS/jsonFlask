@@ -1,0 +1,33 @@
+{
+    "name": "Node.js",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/app",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash",
+        "editor.fontSize": 18,
+        "editor.formatOnSave": true,
+        "workbench.colorTheme": "Andromeda",
+        "workbench.iconTheme": "material-icon-theme"
+    },
+    "extensions": [
+        "CodeYard.flask-snippets",
+        "cstrap.flask-snippets",
+        "EliverLara.andromeda",
+        "ms-azuretools.vscode-docker",
+        "MS-CEINTL.vscode-language-pack-es",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "ms-vscode-remote.remote-containers",
+        "PKief.material-icon-theme",
+        "rangav.vscode-thunder-client",
+        "whizkydee.material-palenight-theme",
+        "WyattFerguson.jinja2-snippet-kit",
+        "Zaczero.bootstrap-v4-snippets"
+
+
+
+
+    ]
+}
