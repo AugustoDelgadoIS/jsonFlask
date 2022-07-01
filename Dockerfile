@@ -1,9 +1,15 @@
 FROM python:alpine
 
-COPY . /app
-
 WORKDIR /app
 
-RUN apt install python3-pip
+COPY requirements.txt /
+RUN pip3 install -r requirements.txt
 
-RUN pip install -r requirements.txt
+COPY . /app
+
+RUN chmod +x gunicorn.sh
+
+ENTRYPOINT [ "./gunicorn.sh" ]
+
+
+
