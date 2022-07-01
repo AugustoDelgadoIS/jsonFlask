@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-<span style="font-weight:bold;">Kubernetes en Windows con contenedores Docker Desktop!![img_1.png](img_1.png)[img.png](img.png)</span><br />
+<span style="font-weight:bold;">Kubernetes en Windows con contenedores Docker Desktop!!</span><br />
 </div>
 
 <table>
