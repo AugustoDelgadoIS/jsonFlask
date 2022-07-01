@@ -444,7 +444,7 @@ kubectl expose deployment aspnetapp --type=NodePort
 - [Hub Docker][Joomla-MySQL]
 - [Tutorial de Docker en Windows ][Docker-Tutorial-Youtube]
 - [Instalar Kubernetes][Cómo instalar y usar Docker en Ubuntu 20.04]
-- [Instalar Kubernetes][Cómo instalar y usar Docker en Ubuntu 20.04]
+- [Guia Docker Richard Escobedo][GIT DOCKER]
 - [Mini Kube][mini-kube] 
 
 #
@@ -463,6 +463,7 @@ kubectl expose deployment aspnetapp --type=NodePort
 [Docker-Hub]: https://hub.docker.com/
 
 [Cómo instalar y usar Docker en Ubuntu 20.04]:https://www.enmilocalfunciona.io/instalando-y-probando-kubernetes-windows-10/
+[GIT DOCKER]: https://github.com/rescobedoulasalle/kubernetes
 
 
 
